@@ -1,0 +1,17 @@
+{
+  "name": "CSS_Expandable_Social_Icons",
+  "authors": [
+    "codwerk <louis_widdy@live.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
