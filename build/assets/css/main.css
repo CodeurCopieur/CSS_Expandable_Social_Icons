@@ -1,0 +1,66 @@
+.container-Social {
+    padding: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cs_list-item {
+    background: rgb(38, 191, 191);
+    list-style: none;
+    margin: 4px;
+    border-radius: 2em;
+    overflow: hidden;
+}
+
+.cs_list-item a {
+    display: block;
+    padding: .5em;
+    min-width: 1.28571429em;
+    max-width: 1.28571429em;
+    height: 1.28571429em;
+    white-space: nowrap;
+    line-height: 1.5em;
+    transition: .5s;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+}
+
+.cs_list-item i {
+    margin-right: .5em;
+}
+
+.cs_list-item:hover a {
+    max-width: 200px;
+    padding-right: 1em;
+}
+
+.fbk {
+    background: rgb(0, 56, 64);
+    box-shadow: 0 0 16px rgb(0, 56, 64);
+}
+
+.ttr {
+    background: rgb(0, 90, 91);
+    box-shadow: 0 0 16px rgb(0, 90, 91);
+}
+
+.itm{
+    background: rgb(0, 115, 105);
+    box-shadow: 0 0 16px rgb(0, 115, 105);
+}
+
+.cdn {
+    background: rgb(0, 140, 114);
+    box-shadow: 0 0 16px rgb(0, 140, 114);
+}
+
+.gtb {
+    background: rgb(2, 166, 118);
+    box-shadow: 0 0 16px rgb(2, 166, 118);
+}
