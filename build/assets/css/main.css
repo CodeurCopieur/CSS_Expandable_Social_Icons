@@ -13,7 +13,6 @@
     background: rgb(38, 191, 191);
     list-style: none;
     margin: 4px;
-    border-radius: 2em;
     overflow: hidden;
 }
 
@@ -32,7 +31,7 @@
 }
 
 .cs_list-item i {
-    margin-right: .5em;
+    margin-right: .75em;
 }
 
 .cs_list-item:hover a {
